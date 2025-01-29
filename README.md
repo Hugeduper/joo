@@ -1,2 +1,1 @@
-# joo
-joo
+to use this software turn off your antivirus
